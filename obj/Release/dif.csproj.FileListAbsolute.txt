@@ -1,0 +1,7 @@
+C:\Users\Luke\Source\Repos\dif\dif\bin\Release\dif.exe.config
+C:\Users\Luke\Source\Repos\dif\dif\bin\Release\dif.exe
+C:\Users\Luke\Source\Repos\dif\dif\bin\Release\dif.pdb
+C:\Users\Luke\Source\Repos\dif\dif\obj\Release\dif.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Source\Repos\dif\dif\obj\Release\dif.exe
+C:\Users\Luke\Source\Repos\dif\dif\obj\Release\dif.pdb
+C:\Users\Luke\Source\Repos\dif\dif\obj\Release\dif.csprojResolveAssemblyReference.cache
