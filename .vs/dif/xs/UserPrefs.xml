@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1C70DB71-FC6C-4D50-9B7F-238FA0F3FCFC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dif2/Program.cs">
+    <Files>
+      <File FileName="dif2/Program.cs" Line="34" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dif" expanded="True">
+            <Node name="dif2" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dif2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
